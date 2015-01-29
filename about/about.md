@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 modified: 2014-12-15
 tags: [about]
-image:
-  feature: mcginty_first_landing_banner.jpg
+image: mcginty_first_landing_banner.jpg
+  feature: 
 ---
 
 
