@@ -1,25 +1,30 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About
+permalink: /about/
+modified: 2014-12-15
+tags: [about]
+image: 
+  feature: mcginty_first_landing_banner.jpg
+  credit: Tessa Pierce
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-## Minimal Mistakes is all about:
+I'm a PhD Candidate at Scripps Institution of Oceanography, UCSD, advised by Ron Burton and Terry Gaasterland. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+I conduct interdisciplinary research focusing on the response of the California market squid, *Doryteuthis opalescens*, to low oxygen and low pH conditions. I focus on response at the gene expression level, using transcriptome analyses. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+My broad goal is to explore interesting biological questions, particularly in ecology, evolution, and environmental change, via bioinformatic techniques. For the most part, my work focuses on genomics and transcriptomics of non-model marine species. 
+
+
+I'm also interested working to help overcome the issues and disadvantages that women and students from diverse backgrounds (both racial and economical) face in pursuing science. At SIO, I work as part of TIDES, the Team for Improving Diversity and Engagement in Science (formerly GDAWG), where we focus on raising awareness of these issues around SIO and UCSD, and on trying to bring science out to a broader community.
+
+
+[CV](http://bluegenes.github.io/cv/)       [Publications](http://bluegenes.github.io/publications/)
+
+[Loba](http://bluegenes.github.io/loba/) 
+
+
+### Contact me
+[tessa@ucsd.edu](mailto:tessa@ucsd.edu)
