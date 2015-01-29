@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sea Otter Classic: April 19th 
+title: Sea Otter Classic April 19th 
 ---
 
 The day started like any other day: get up at 5am, get into cycling gear and get ready to ride 100 miles. Ok, so it wasn't really like any other day, but it sure started out promising. We had checked in the day before, so we headed over to Laguna Seca Raceway and over to the start line. The official start was at 7am, so we waited with other riders for the pace car to lead us around the track and out onto the tour.

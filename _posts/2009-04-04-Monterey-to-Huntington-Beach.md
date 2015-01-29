@@ -1,6 +1,13 @@
 ---
 layout: post
-title: Monterey to Huntington Beach: March 21-25
+title: Monterey to Huntington Beach March 21-25
+excerpt: "It's only 500 miles ...what's the worst that could happen?"
+modified: 2009-03-130
+comments: true
+image:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 First, a quick THANK YOU, THANK YOU, THANK YOU to my sponsors and support team (aka, all of you!). I'm close to reaching the minimum amount for Bike and Build, though I still need a few hundred dollars to reach it. You have inspired me to step up my personal fundraising goal to $5000- I'll be putting on some fundraising events and working hard to get to this goal. I know we can pull together to raise money for this amazing cause!

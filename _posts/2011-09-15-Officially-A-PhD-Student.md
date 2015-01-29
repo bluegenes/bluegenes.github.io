@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30 Rock: graduate students are the worst
+title: 30 Rock - graduate students are the worst
 ---
 
 [link video] 

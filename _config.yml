@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            Tessa Pierce
+locale:           San Diego, CA
+#url:              bluegenes.github.io
+url:              //bluegenes.github.io
 
 
 # Jekyll configuration
@@ -26,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  name: Tessa Pierce
+  avatar: loba.jpg
+  bio: "PhD Candidate at Scripps Institution of Oceanography, UCSD"
+  email: ntpierce@gmail.com
+  disqus-shortname: tess
+  twitter: saltyscientist
   facebook: #username
   google:
     plus: #username
@@ -40,7 +41,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: bluegenes
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

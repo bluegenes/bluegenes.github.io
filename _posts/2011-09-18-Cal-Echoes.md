@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jumping Ship: Joining the Cal Echoes Research Cruise
+title: Jumping Ship-- Joining the Cal Echoes Research Cruise
 ---
 
-terday, someone dropped out of the research cruise I’ve been helping with. So: my choice was 1 week of classes vs. a 9-day research cruise. hmm… Santa Barbara Basin here I come!
+Yesterday, someone dropped out of the research cruise I’ve been helping with. So: my choice was 1 week of classes vs. a 9-day research cruise. hmm… Santa Barbara Basin here I come!
 
 View Map
 
