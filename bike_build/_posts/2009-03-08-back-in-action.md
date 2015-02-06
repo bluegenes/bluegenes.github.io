@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Blog 
+title: Back in Action
 ---
 
 We're back in action! Annie had her wisdom teeth taken out last friday, so the past week or so, I've been doing mostly gym workouts. It's been difficult to keep up with training, as we're reaching the end of the quarter and the work is piling on. Finals/ final presentations happen over the next two weeks. But yesterday we finally got back on the road. A friend from lab told us about this website, mapmyride.com, that lets you plan a bike route to your destination and gives you information

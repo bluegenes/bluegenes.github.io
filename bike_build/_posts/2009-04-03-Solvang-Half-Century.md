@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Blog 
+title: Solvang Half Century
 ---
 
 
