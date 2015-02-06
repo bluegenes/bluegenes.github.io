@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Loba
-permalink: /loba
+permalink: /loba/
 modified: 2015-02-05
-tags: [about]
+tags: [loba]
 image: 
-  feature:loba_mcginty_peak.jpg
+  feature: loba_mcginty_peak.jpg
   credit: Tessa Pierce
 ---
 
