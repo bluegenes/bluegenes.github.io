@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about2/
 modified: 2014-12-15
 tags: [about]
 image: 
