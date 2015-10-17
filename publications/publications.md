@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Publications
 permalink: /publications/
 modified: 2015-10-16
 tags: [publications]
@@ -23,6 +23,21 @@ Embryogenesis of Squid, *Doryteuthis opalescens*, considering environmental pH a
 CA Elliger, TA Richmond, ZN Lebaric, **NT Pierce**, JV Sweedler, WF Gilly.
 Diversity of conotoxin types from *Conus californicus* reflects a diversity of prey types and a novel evolutionary history.
 Toxicon 57 (2), 311-322 
+
+
+#####Nearing Completion
+**Pierce, N.T.**, Hartwick, N., Walters, A.S., Burton, R.S., Gaasterland, T.
+Automated *De Novo* Transcriptome Analysis Using an Integrative Python Framework. *in prep*
+
+**Pierce, N.T.**, Navarro, M.O., Bockmon, E.E., Burton, R.S., Gaasterland, T.
+Genome-wide Gene Expression Response of *Doryteuthis opalescens* Embryos to Low pH and Low Oxygen Conditions. *in prep* 
+
+**Pierce, N.T.**, Burton, R.S., Gaasterland, T.
+Transcriptome Analysis of *Doryteuthis opalescens* Embryos Over Development. *in prep* 
+
+**Pierce, N.T.**, deVries, M.S., Taylor, J., Gaasterland, T. 
+Transcriptome Assembly and Differential Gene Expression Analysis of *Neogonodactylus bredini* Response to Low pH and Increased Temperature Conditions. *in prep*
+
 
 
 [Contact](mailto:tessa@ucsd.edu)
