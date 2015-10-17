@@ -6,7 +6,6 @@ modified: 2015-02-05
 tags: [about]
 image: 
   feature: Tess_w_MSEAS.jpg 
-  credit: Nuri B. Pierce
 ---
 
 My dissertation is focused on investigating the biological impacts of climate change in the ecologially and economically important California market squid, *Doryteuthis opalescens*.
