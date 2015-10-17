@@ -9,7 +9,7 @@ image:
   credit: Nuri B. Pierce
 ---
 
-My dissertation is focused on investigating the biological impacts of climate change in the ecologially and economically important California market squid, *Doryteuthis* opalescens*.
+My dissertation is focused on investigating the biological impacts of climate change in the ecologially and economically important California market squid, *Doryteuthis opalescens*.
 
 
 ####Doryteuthis opalescens
