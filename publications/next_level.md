@@ -32,4 +32,12 @@ Automated *De Novo* Transcriptome Analysis Using an Integrative Python Framework
 **Pierce, N.T.**, Navarro, M.O., Bockmon, E.E., Burton, R.S., Gaasterland, T.
 Genome-wide Gene Expression Response of *Doryteuthis opalescens* Embryos to Low pH and Low Oxygen Conditions. *in prep* 
 
+**Pierce, N.T.**, Burton, R.S., Gaasterland, T.
+Transcriptome Analysis of *Doryteuthis opalescens* Embryos Over Development. *in prep* 
+
+**Pierce, N.T.**, deVries, M.S., Taylor, J., Gaasterland, T. 
+Transcriptome Assembly and Differential Gene Expression Analysis of *Neogonodactylus bredini* Response to Low pH and Increased Temperature Conditions. *in prep*
+
+
+
 [Contact](mailto:tessa@ucsd.edu)
