@@ -1,8 +1,20 @@
 ---
 layout: post
-title: Software Carpentry Oct 27
+title: Software Carpentry Workshop
 modified: 2015-10-22
+tags: [software carpentry]
+comments: true
 ---
 
-Teaching my first software carpentry workshop at UCSD next week! More info [here](http://scicomp.sdsc.edu/2015-10-27-ucsd/); register [here](https://www.regonline.com/Register/Checkin.aspx?EventID=1769832/).
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+Teaching my first software carpentry workshop at UCSD next week!
 
