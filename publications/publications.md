@@ -12,8 +12,8 @@ image:
 
 
 #####2015 
-Ricardo J. Pereira, Felipe S. Barreto, Miguel Carneiro, **N. Tessa Pierce**, and Ronald S. Burton. 
-Replicated Patterns of Genomic Divergence During Allopatric Evolution. *accepted, Molecular Ecology*
+Ricardo J. Pereira, Felipe S. Barreto, **N. Tessa Pierce**, Miguel Carneiro, and Ronald S. Burton. 
+Replicated Patterns of Genomic Divergence During Allopatric Evolution. Molecular Ecology. *accepted*
 
 Navarro, M.O., Kwan, G.T., Batalov, O., Choi, C., **Pierce, N.T.**, Levin, L.A. 
 Embryogenesis of Squid, *Doryteuthis opalescens*, considering environmental pH and Oxygen conditions. *submitted* 
