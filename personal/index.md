@@ -9,12 +9,14 @@ image:
   credit: Tessa Pierce
 ---
 
-Sometimes I blog about personal stuff. 
+Sometimes I blog for collaborative projects or about personal experiences. 
 
-In 2009, I biked across the country with [Bike and Build](bikeandbuild.org). For posts about the importance of affordable housing and my trip from Boston to Santa Barbara, check out [my old wordpress blog](http://tessapie.wordpress.com).
+[Beyond the Obituaries Collaborative Project](https://btosio.wordpress.com/about/)
 
 In 2010, I went on the week-long CalEchoes cruise in the Santa Barbara Basin. Check out our trip blog [here](https://calechoes.wordpress.com).
 
-[2011 Beyond the Obituaries](https://btosio.wordpress.com/about/)
+In 2009, I biked across the country with [Bike and Build](http://bikeandbuild.org). For posts about the importance of affordable housing and my trip from Boston to Santa Barbara, check out [my old wordpress blog](http://tessapie.wordpress.com).
+
+
 
 

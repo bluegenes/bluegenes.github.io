@@ -21,13 +21,13 @@ The adult and developmental transcriptomes are nearing completion and data will 
 
 ####De novo transcriptomics 
 
-Along the way to my main project on market squid, I worked with computer science students to develop a python framework for automated de novo transcriptome assemblies. This pipeline leverages popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The goal here is to help biologists just getting into transcriptomics produce high quality references from their data, which can then be used for additional downstream analyses. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Coming soon.
+Along the way to my main project on market squid, I have developed a python framework for automated de novo transcriptome assemblies, MakeMyTranscriptome. This pipeline leverages popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The goal here is to help biologists just getting into transcriptomics produce high quality references from their data, which can then be used for additional downstream analyses. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Coming soon.
 
 ####Mantis Shrimp
 
 If you don't know anything about mantis shrimp, check out this [Oatmeal comic](http://theoatmeal.com/comics/mantis_shrimp/) for a fun introduction.
 
-In collaboration with [Maya deVries](http://scrippsscholars.ucsd.edu/mdevries/biocv/) and [Jennifer Taylor](http://scrippsscholars.ucsd.edu/j3taylor/biocv/), I am investigating the transcriptome response of *Neogonodactylus bredini* to increased temperature and decreased pH conditions. Their larger project is focused on impacts of warming and ocean acidification on the carapace and smashing appendage. [Contact me](mailto:tessa@ucsd.edu) for more details.
+In collaboration with [Maya deVries](http://scrippsscholars.ucsd.edu/mdevries/biocv/) and [Jennifer Taylor](http://scrippsscholars.ucsd.edu/j3taylor/biocv/), I am investigating the transcriptome response of *Neogonodactylus bredini* to high temperature and low pH conditions. Their larger project is focused on impacts of warming and ocean acidification on the carapace and smashing appendage. [Contact me](mailto:tessa@ucsd.edu) for more details.
 
 
 
