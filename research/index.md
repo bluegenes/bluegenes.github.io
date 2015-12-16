@@ -21,7 +21,7 @@ The adult and developmental transcriptomes are nearing completion and data will 
 
 ####De novo transcriptomics 
 
-Along the way to my main project on market squid, I have developed a python framework for automated de novo transcriptome assemblies, MakeMyTranscriptome. This pipeline leverages popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The goal here is to help biologists just getting into transcriptomics produce high quality references from their data, which can then be used for additional downstream analyses. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Coming soon.
+Along the way to my main project on market squid, I developed a python framework for automated de novo transcriptome assemblies, MakeMyTranscriptome. This pipeline leverages popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The goal here is to help biologists just getting into transcriptomics produce high quality references from their data, which can then be used for additional downstream analyses. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Coming soon.
 
 ####Mantis Shrimp
 
