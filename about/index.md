@@ -20,4 +20,4 @@ I'm probably a bit too obsessed with coffee, books, and hiking across hillsides 
 
 
 
-[Contact](mailto:tessa@ucsd.edu)
+[Contact](mailto:ntpierce@gmail.com)
