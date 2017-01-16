@@ -31,7 +31,7 @@ In collaboration with [Maya deVries](http://scrippsscholars.ucsd.edu/mdevries/bi
 
 #### Funding
 
-I was fortunate to be funded by an NSF IGERT to SIO for Global Change, Ecosystems and Society, an NSF GRFP, and the San Diego Diversity Fellowship for six years during my PhD, including a small research grant of $12 from a network of [local donors](https://scripps.ucsd.edu/giving/impacts/fellowship-donors-recognized). Many thanks to all who have made it possible for me to work on such interesting questions.
+I was fortunate to be funded by an NSF IGERT to SIO for Global Change, Ecosystems and Society, an NSF GRFP, and the San Diego Diversity Fellowship for six years during my PhD, including a small research grant of $12k from a network of [local donors](https://scripps.ucsd.edu/giving/impacts/fellowship-donors-recognized). Many thanks to all who have made it possible for me to work on such interesting questions.
 
 
 
