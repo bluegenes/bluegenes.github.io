@@ -2,14 +2,11 @@
 layout: page
 title: CV
 permalink: /cv/
-modified: 2015-02-05
+modified: 2017-01-17
 tags: [about]
-image:
-  feature: 
-  credit:  
 ---
 
-[CV]({{ site.url }}/assets/ntpierce_cv_Jan2017.pdf)
+![CV]({{ site.url }}/images/ntpierce_cv_Jan2017.pdf)
 
 
 
