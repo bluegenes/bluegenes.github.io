@@ -2,6 +2,8 @@
 layout: post
 title: Beyond Bike and Build: Starting Graduate School
 modified: 2010-04-01
+categories:
+-blog
 ---
 
 Hi Everyone!
