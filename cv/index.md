@@ -9,8 +9,7 @@ image:
   credit:  
 ---
 
-coming soon...
-
+[CV]({{ site.url }}/assets/ntpierce_cv_Jan2017.pdf)
 
 
 
