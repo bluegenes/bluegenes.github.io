@@ -1,0 +1,1 @@
+I\'m starting a postdoc in the [Data Intensive Biology Lab](http://ivory.idyll.org/lab/) at UC Davis, run by Titus Brown. I'm kicking it off as an instructor at [DIBSI](http://ivory.idyll.org/dibsi/index.html)! 
