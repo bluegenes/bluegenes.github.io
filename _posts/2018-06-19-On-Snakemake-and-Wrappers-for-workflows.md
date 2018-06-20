@@ -61,4 +61,3 @@ I am still pretty new to snakemake and am figuring out the best way to implement
 
 tessa
 
-ps. For the curious, here's the (in progress) [eel pond update](https://github.com/dib-lab/eelpond). In addition to working on the remaining rules, the commenting mess within the Snakefile will be replaced with functions to include certain rules based on cli input. If you think I should link eel pond in the text above, I would want to get that implemented before posting.
