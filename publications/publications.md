@@ -21,10 +21,8 @@ Pereira, R. J., Barreto, F. S., **Pierce, N. T.**, Carneiro, M., & Burton, R. S.
 Elliger, C. A., Richmond, T. A., Lebaric, Z. N., **Pierce, N. T.**, Sweedler, J. V., & Gilly, W. F. (2011). Diversity of conotoxin types from Conus californicus reflects a diversity of prey types and a novel evolutionary history. Toxicon, 57(2), 311-322.
 
 ##### Nearing Completion
-**Pierce, N.T.**, Hartwick, N., Walters, A.S., Burton, R.S., Gaasterland, T.
-Automated *De Novo* Transcriptome Analysis Using an Integrative Python Framework. *in prep*
 
 **Pierce, N.T.**, Navarro, M.O., Burton, R.S., Gaasterland, T.
-Genome-wide Gene Expression Response of *Doryteuthis opalescens* Embryos to Low pH and Low Oxygen Conditions. *in prep* 
+Genome-wide Gene Expression Response of *Doryteuthis opalescens* Embryos to Low pH and Low Oxygen Conditions. 
 
 [Contact](mailto:ntpierce@gmail.com)
