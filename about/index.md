@@ -17,7 +17,9 @@ in 2017, I received my PhD from [Scripps Institution of Oceanography, UCSD,](htt
 You can also find me nerding out over coffee and books, or hiking across hillsides with my incredible dog, [Loba](http://bluegenes.github.io/loba/).
 
 
-[CV](http://bluegenes.github.io/cv/)       [Publications](http://bluegenes.github.io/publications/)
+[CV](http://bluegenes.github.io/cv/)   
+
+[Publications](http://bluegenes.github.io/publications/)
 
 
 
