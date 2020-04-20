@@ -82,7 +82,7 @@ shadow-prefix: /scratch/ntpierce
 printshellcmds: True
 ```
 
-**NOTE:** the `slurm-status.py` script did not work on our system, as using `sacct` gives an error. For now, I commented out this line. 
+**NOTE:** For now, I actually commented out the the `slurm-status.py` line, as `sacct` isn't enabled on our system, and the output was very verbose.
 
 
 **Setting default resource utilization**
