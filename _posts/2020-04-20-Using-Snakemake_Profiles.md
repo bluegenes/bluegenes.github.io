@@ -92,10 +92,10 @@ Using your favorite text editor, open a new file (mine is: `~/.config/snakemake/
 Write in your desired default resources. For me, this file contains:
 ```
 __default__:
-    partition: bml # the partition you use
     account: ctbrowngrp # your hpc account
+    partition: bml # the partition you use
     mail-user: ntpierce@ucdavis.edu # your email (optional!)
-    time: 360 # default time
+    time: 360 # default time (minutes)
     nodes: 1
     ntasks: 1
     mem: 14GB # default memory
