@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using snakemake & slurm 
-modified: 2020-07-10
+modified: 2019-07-10
 ---
 
 # Snakemake via SLURM
