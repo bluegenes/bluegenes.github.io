@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Using snakemake & slurm 
+title: snakemake & slurm
 modified: 2019-07-10
 ---
-
-# Snakemake via SLURM
 
 Snakemake can submit each of your jobs to the slurm scheduler for you! To enable this, you need to provide the `--cluster` option to snakemake on the command line, and include all of the `sbatch` information you normally put at the top of your submission files.
 
@@ -12,6 +10,7 @@ Snakemake can submit each of your jobs to the slurm scheduler for you! To enable
 ```
 snakemake --cluster "sbatch -A CLUSTER_ACCOUNT -t CLUSTER_TIME -p CLUSTER_PARTITION -N CLUSTER_NODES -J JOBNAME" --jobs NUM_JOBS_TO_SUBMIT
 ```
+
 Notes: 
   - Most clusters would prefer that you use an interactive session (or sbatch) to run this, so that you're not running anything on the login nodes. Since this process is only submitting jobs, you _can_ run this command on tmux/screen on a login node, but only do it for a small number of jobs or you'll slow everyone up and your job will probably be killed by admin.
  - the `--jobs` parameter allows snakemake to submit up to NUM_JOBS_TO_SUBMIT number of jobs, but please be aware of submission limits on your cluster. By default, snakemake will only submit jobs that can be run (input files already exist). There is a parameter called `--immediate-submit` that will submit all jobs at once, but this may be an issue if the input files for those jobs are not available when those jobs make it through the scheduling queue.
