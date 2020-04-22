@@ -2,9 +2,10 @@
 layout: post
 title: Metatranscriptomics workshop & development
 modified: 2019-02-28
-author: N. Tessa Pierce, Taylor Reiter
+authors: N. Tessa Pierce, Taylor Reiter
 tags: cicese, workshop, metatranscriptomics
 ---
+by N. Tessa Pierce and Taylor Reiter
 
 In early November, we ran a workshop at CICESE, the Center for Scientific Research and Higher Education, in Ensenada, Baja California. This was the lab's second time at CICESE: last year, Phil Brooks, Harriet Alexander, and Titus taught a Metagenomics workshop.
 
