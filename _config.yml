@@ -2,8 +2,8 @@
 
 title:            Tessa Pierce
 locale:           San Diego, CA
-#url:              bluegenes.github.io
-url:              //bluegenes.github.io
+url:              bluegenes.github.io
+#url:              //bluegenes.github.io
 
 
 # Jekyll configuration
@@ -24,6 +24,8 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+disqus:
+  shortname: bluegenes
 
 # Site owner
 owner:
