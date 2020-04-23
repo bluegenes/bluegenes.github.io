@@ -41,8 +41,8 @@
         {% include _social-share.html %}
       {% endif %}
     </div><!-- /.article-wrap -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% if site.owner.disqus-shortname %}
+      {% include _disqus_comments.html %}
     {% endif %}
   </article>
 </div><!-- /#index -->
