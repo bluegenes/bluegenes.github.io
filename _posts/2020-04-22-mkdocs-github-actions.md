@@ -1,7 +1,8 @@
 ---
 title: Deploying Mkdocs via Github Actions
 date: 2020-04-22
-authors: N. Tessa Pierce
+authors: 
+  - N. Tessa Pierce
 ---
 
 I need to edit some documentation for our workflow projects [dammit](https://dib-lab.github.io/dammit) and [elvers](https://dib-lab.github.io/elvers). These docs are set up in [mkdocs](https://www.mkdocs.org), which I love for it's simplicity: I can write all my documentation in markdown, and mkdocs will take care of formatting and building html for web display. Thanks to Charles Reid for getting the lab on mkdocs a few years ago and for building us a [custom
@@ -11,10 +12,9 @@ theme](https://github.com/dib-lab/mkdocs-material-dib) back in 2018!
 
 Looks like we can start from [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages). Since dammit and elvers are both project repositories, I'll just go through the `project` instructions.
 
-1. Add a workflow file: `.github/workflows/gh-pages.yml`
+First, add a workflow file: `.github/workflows/gh-pages.yml` that contains the build and deploy instructions.
 
-This file should contain the build and deploy instructions. This file works with the [material theme](https://github.com/squidfunk/mkdocs-material).
-
+This particular file works with the [material theme](https://github.com/squidfunk/mkdocs-material):
 ```
 name: build and deploy mkdocs to github pages
 
@@ -65,4 +65,5 @@ jobs:
 
 Commit, push, and watch the magic happen. Commit a change to your documentation to double check that your site builds properly. 
 
-2. Wait...that was actually it? Wow. I really thought there would be more to this - happy to report that something that went _faster_ than expected.
+
+And... Done! Wow, I really thought there would be more to this - happy to report that something that went _faster_ than expected.
