@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Using snakemake `--profile` for default settings and cluster execution
-modified: 2020-04-20
+comments: true
+date: 2020-04-20
 ---
 
 There are a number of parameters I always want to run for snakemake, and writing them on the command line every time can be tedious. For example, I nearly always want snakemake to "keep going" (`--keep-going`) with independent jobs, even if a single one fails. I nearly always use dedicated conda environments for each rule, so I'd like `--use-conda` to be the default execution.

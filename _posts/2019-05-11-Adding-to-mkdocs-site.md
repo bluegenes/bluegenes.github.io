@@ -3,6 +3,7 @@ title: Editing Documentation Compiled via Mkdocs
 date: 2019-05-11
 authors:
   - N. Tessa Pierce
+comments: true
 ---
 
 Most of my documentation is written in markdown (`.md` files) and built into an html site by `mkdocs`. If you want to edit

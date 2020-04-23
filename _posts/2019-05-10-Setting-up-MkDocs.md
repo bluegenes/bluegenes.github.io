@@ -3,6 +3,7 @@ title: Setting up MkDocs in a new repo
 date: 2019-05-10
 authors:
   - N. Tessa Pierce
+comments: true
 ---
 
 In your repo: 

@@ -4,6 +4,7 @@ title: Metatranscriptomics workshop & development
 modified: 2019-02-28
 authors: N. Tessa Pierce, Taylor Reiter
 tags: cicese, workshop, metatranscriptomics
+comments: true
 ---
 by N. Tessa Pierce and Taylor Reiter
 

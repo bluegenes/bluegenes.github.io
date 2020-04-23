@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Software Carpentry
-modified: 2015-10-22
+date: 2015-10-22
+comments: true
 ---
 
 

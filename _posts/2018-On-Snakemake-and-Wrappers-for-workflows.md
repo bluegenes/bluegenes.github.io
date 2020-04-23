@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On Snakemake and wrappers for workflows
-modified: 2018-06-19
+date: 2018-06-19
+comments: true
 ---
 
 A few months ago, Titus wrote about the dib-lab's [slow creep into the world of snakemake for workflow applications](http://ivory.idyll.org/blog/2018-workflows-applications.html). Thanks to some good examples and a lot of osmosis from the folks already using snakemake in the lab, I finally jumped in and now am re-implementing an updated version of our Eel Pond protocol for RNAseq as a snakemake workflow. 

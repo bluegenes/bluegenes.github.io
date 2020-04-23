@@ -33,28 +33,28 @@ owner:
   email: ntpierce@gmail.com
   disqus-shortname: tess
   twitter: saltyscientist
-  facebook: #username
+  #facebook: #username
   google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+ #   plus: #username
+    analytics: UA-59786406-1
+  #  verify: 
+  #  ad-client: 
+  #  ad-slot: 
+  #bing-verify: 
   github: bluegenes
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+  #stackoverflow: #http://stackoverflow.com/users/123456/username
+  #linkedin: #username
+  #instagram: #username
+  #lastfm: #username
+  #tumblr: #username
+  #pinterest: #username
+  #foursquare: #username
+  #steam: #username
+  #dribbble: #username
+  #youtube: #username
+  #soundcloud: #username
+  #weibo: #username
+  #flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

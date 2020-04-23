@@ -2,6 +2,7 @@
 layout: post
 title: snakemake & slurm
 modified: 2019-07-10
+comments: true
 ---
 
 Snakemake can submit each of your jobs to the slurm scheduler for you! To enable this, you need to provide the `--cluster` option to snakemake on the command line, and include all of the `sbatch` information you normally put at the top of your submission files.

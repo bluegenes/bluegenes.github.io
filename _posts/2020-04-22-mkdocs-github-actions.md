@@ -3,6 +3,7 @@ title: Deploying Mkdocs via Github Actions
 date: 2020-04-22
 authors: 
   - N. Tessa Pierce
+comments: true
 ---
 
 I need to edit some documentation for our workflow projects [dammit](https://dib-lab.github.io/dammit) and [elvers](https://dib-lab.github.io/elvers). These docs are set up in [mkdocs](https://www.mkdocs.org), which I love for it's simplicity: I can write all my documentation in markdown, and mkdocs will take care of formatting and building html for web display. Thanks to Charles Reid for getting the lab on mkdocs a few years ago and for building us a [custom
