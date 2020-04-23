@@ -1,6 +1,6 @@
 ---
 title: Deploying Mkdocs via Github Actions
-date: 2010-04-22
+date: 2020-04-22
 authors: N. Tessa Pierce
 ---
 
