@@ -38,13 +38,13 @@ Here are a subset of their findings, followed by some proposed solutions.
 
 "San Diego police were more likely to use weapons and other types of force against Black People"
 
-<img src="https://i.imgur.com/fGd6Fok.png" width="200" />
+<img src="https://i.imgur.com/fGd6Fok.png" width="400" />
 
 **"On average, when SDPD uses force against black people they use a level of force 1.3x more severe than when using force against white people. For SDSD, it was a level of force 2.7x more severe."**
 
 "['Severity' is defined] ... using a methodology developed by the Center for Policing Equity. More severe forms of force - like the use of tasers and canines - are assigned a higher score than less severe forms of force - like punches and kicks."
 
-<img src="https://i.imgur.com/xVQ9O0m.png" width="200" />
+<img src="https://i.imgur.com/xVQ9O0m.png" width="400" />
 
 ## Findings on search practices:
 
