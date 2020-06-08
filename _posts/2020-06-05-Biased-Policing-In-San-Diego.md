@@ -104,5 +104,5 @@ Police Scorecard:
   - Full executive summary for SD [here](https://policescorecard.org/assets/san-diego/police-scorecard-san-diego-report.pdf?ac=54230acb52f1cd288f56e6b599d16926d8d2c6b6)
 
 Raw data:
-  - publicly available police stop data for san diego can be found at: https://data.sandiego.gov/datasets/police-ripa-stops (~June 2018-present)
+  - publicly available police stop data for san diego can be found [here](https://data.sandiego.gov/datasets/police-ripa-stops) (~June 2018-present)
   - prior data (stored slightly differently) is linked from there
