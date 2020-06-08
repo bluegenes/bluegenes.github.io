@@ -8,7 +8,7 @@ tags: police, san diego, bias, use of force, #BlackLivesMatter #PoliceReformNow
 
 **We shouldn't need statistics (or videos) to believe our fellow humans about their lived experiences. But sometimes data can highlight the glaring differences that exist.**
 
-In academia and beyond, we need to be more proactive in dismantling white supremacy. As a scientist who deals in data, I wanted to see if putting together data on policing in my local area could show folks just becoming aware of these issues that **biased policing and police brutality are not new: they are constant and pervasive.**
+In academia and beyond, we (particularly white folks) need to be more proactive in dismantling white supremacy. As a scientist who deals in data, I wanted to see if putting together data on policing in my local area could show folks just becoming aware of these issues that **biased policing and police brutality are not new: they are constant and pervasive.**
 
 I went looking for policing data in San Diego: who was stopped, for what, if force was used, etc. I ended up finding that Samuel Sinyangwe of Campaign Zero had already done the [analysis](https://policescorecard.org/sandiego). 
 
