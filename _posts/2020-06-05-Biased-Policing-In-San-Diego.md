@@ -77,11 +77,14 @@ Note - a bill (AB-3131) introduced by Assembly members Todd Gloria (D-San Diego)
 ## Links to additional data and research
 
   - **Californians: How does your city stack up?** [policescorecard.org](https://policescorecard.org/)
-  - For links to research on body cams (spoiler: they don't seem to reduce police violence), the impact of more restrictive policies and training programs for police, police union contracts, demilitarization, etc, see this [twitter thread](https://twitter.com/samswey/status/1180655701271732224)
-
+  - For links to research on body cams (spoiler: they don't seem to reduce police violence), the impact of more restrictive policies and training programs for police, police union contracts, demilitarization, etc, see this [twitter thread](https://twitter.com/samswey/status/1180655701271732224)  
+    
+  
+    
 ---
 
-# Proposed Solutions
+Proposed Solutions
+===
 
 Note: **This is just the reported data, which is undoubtedly far from complete. First and foremost, we need to listen and believe people when they tell us about their experiences.**
 
