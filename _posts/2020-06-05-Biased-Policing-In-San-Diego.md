@@ -79,16 +79,16 @@ Note - a bill (AB-3131) introduced by Assembly members Todd Gloria (D-San Diego)
   - **Californians: How does your city stack up?** [policescorecard.org](https://policescorecard.org/)
   - For links to research on body cams (spoiler: they don't seem to reduce police violence), the impact of more restrictive policies and training programs for police, police union contracts, demilitarization, etc, see this [twitter thread](https://twitter.com/samswey/status/1180655701271732224)
 
-## Proposed Solutions
+# Proposed Solutions
 
 Note: **This is just the reported data, which is undoubtedly far from complete. First and foremost, we need to listen and believe people when they tell us about their experiences.**
 
-### Whole-scale change
+## Whole-scale change
   - #DefundThePolice #AbolishthePolice
   - [What 'Defund the Police' Actually Means](https://www.theatlantic.com/ideas/archive/2020/06/defund-police/612682/) from The Atlantic
   - intro [twitter thread](https://twitter.com/C_Resistance/status/1268712313634209794) 
 
-### Smaller-scale reforms
+## Smaller-scale reforms
   - #8cantwait intro [twitter thread](https://twitter.com/samswey/status/1268318672319401989?s=20)
   - data-based twitter criticism of #8cantwait [here](https://twitter.com/EmmaCaterineDSA/status/1268565474348093441) and [here](https://twitter.com/SFath/status/1268756192391622657)
 
