@@ -1,9 +1,10 @@
 ---
+layout: post
+title: Biased Policing in San Diego 
+comments: false
+date: 2020-06-05
 tags: police, san diego, bias, use of force, #BlackLivesMatter #PoliceReformNow
 ---
-
-Biased Policing in San Diego
-===
 
 **We shouldn't need statistics (or videos) to believe our fellow humans about their lived experiences. But sometimes data can highlight the glaring differences that exist.**
 
@@ -36,13 +37,14 @@ Here are a subset of their findings, followed by some proposed solutions.
 "[Here, 'use of force'] includes police use of batons, tasers, chemical agents, bean bag shotguns and potentially deadly tactics such as strangleholds against civilians."
 
 "San Diego police were more likely to use weapons and other types of force against Black People"
-![](https://i.imgur.com/fGd6Fok.png =350x)
+
+<img src="https://i.imgur.com/fGd6Fok.png" width="200" />
 
 **"On average, when SDPD uses force against black people they use a level of force 1.3x more severe than when using force against white people. For SDSD, it was a level of force 2.7x more severe."**
 
 "['Severity' is defined] ... using a methodology developed by the Center for Policing Equity. More severe forms of force - like the use of tasers and canines - are assigned a higher score than less severe forms of force - like punches and kicks."
 
-![](https://i.imgur.com/xVQ9O0m.png =350x)
+<img src="https://i.imgur.com/xVQ9O0m.png" width="200" />
 
 ## Findings on search practices:
 
@@ -81,14 +83,14 @@ Note - a bill (AB-3131) introduced by Assembly members Todd Gloria (D-San Diego)
 
 Note: **This is just the reported data, which is undoubtedly far from complete. First and foremost, we need to listen and believe people when they tell us about their experiences.**
 
+### Whole-scale change
+  - #DefundThePolice #AbolishthePolice
+  - [What 'Defund the Police' Actually Means](https://www.theatlantic.com/ideas/archive/2020/06/defund-police/612682/) from The Atlantic
+  - intro [twitter thread](https://twitter.com/C_Resistance/status/1268712313634209794) 
 
-**Whole-scale change**, like #DefundThePolice #AbolishthePolice
-- [What 'Defund the Police' Actually Means](https://www.theatlantic.com/ideas/archive/2020/06/defund-police/612682/) from The Atlantic
-- intro [twitter thread](https://twitter.com/C_Resistance/status/1268712313634209794) 
-
-**Smaller-scale reforms**, like #8cantwait
-  - intro [twitter thread](https://twitter.com/samswey/status/1268318672319401989?s=20)
-  - data-based twitter criticism of 8cantwait [here](https://twitter.com/EmmaCaterineDSA/status/1268565474348093441) and [here](https://twitter.com/SFath/status/1268756192391622657)
+### Smaller-scale reforms
+  - #8cantwait intro [twitter thread](https://twitter.com/samswey/status/1268318672319401989?s=20)
+  - data-based twitter criticism of #8cantwait [here](https://twitter.com/EmmaCaterineDSA/status/1268565474348093441) and [here](https://twitter.com/SFath/status/1268756192391622657)
 
 
 ## Linked Resources
