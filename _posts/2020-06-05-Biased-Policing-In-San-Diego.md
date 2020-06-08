@@ -64,7 +64,7 @@ Here are a subset of their findings, followed by some proposed solutions.
 
 **I've focused on racial statistics above, but these intersect with other biases:**
 
-"San Diego Police were more likely to search, arrest without warrant and use force against people the perceived to be LGBT or Gender Non-Conforming. Police were more likely to search these groups despite being less likely to find contraband as a result - an indicator of police bias. This anti-LGBT bias intersected with racial bias - black and Latinx people who police perceived to be LGBT experienced the highest search rates."
+For example, "San Diego Police were more likely to search, arrest without warrant and use force against people the perceived to be LGBT or Gender Non-Conforming. Police were more likely to search these groups despite being less likely to find contraband as a result - an indicator of police bias. This anti-LGBT bias intersected with racial bias - black and Latinx people who police perceived to be LGBT experienced the highest search rates."
 
 "This suggests both departments are **over-searching** people in general, with **little to no public safety benefit**, while engaging in **biased** policing towards communities of color in particular."
 
