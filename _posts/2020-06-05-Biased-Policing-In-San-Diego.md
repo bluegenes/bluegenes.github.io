@@ -60,7 +60,7 @@ Here are a subset of their findings, followed by some proposed solutions.
 
 "77% of all searches by these departments did not report finding contraband. Moreover, the contraband these departments did report finding rarely posed a public safety risk justifying the use of this intrusive police tactic. Drugs or drug paraphernalia represented two-thirds of all contraband reportedly found while fewer than 1% of searches by either department reportedly found a gun."
 
-BUT: "While San Diego police and sheriff's departments were **more likely to search black and Latinx people** during routine traffic stops, they were **less likely to find contraband** during these searches."
+"While San Diego police and sheriff's departments were **more likely to search black and Latinx people** during routine traffic stops, they were **less likely to find contraband** during these searches."
 
 **I've focused on racial statistics above, but these intersect with other biases:**
 
