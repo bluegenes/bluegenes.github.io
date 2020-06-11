@@ -16,6 +16,7 @@ Looks like we can start from [GitHub Actions for GitHub Pages](https://github.co
 First, add a workflow file: `.github/workflows/gh-pages.yml` that contains the build and deploy instructions.
 
 This particular file works with the [material theme](https://github.com/squidfunk/mkdocs-material):
+
 ```
 name: build and deploy mkdocs to github pages
 on:
@@ -53,5 +54,56 @@ Commit, push, and watch the magic happen. Commit a change to your documentation 
 
 And... Done! Wow, I really thought there would be more to this - happy to report that something that went _faster_ than expected.
 
-For reference, the `mkdocs.yml` file for the documentation website that is being deployed via this action can be found [here](https://github.com/dib-lab/dammit/blob/master/mkdocs.yml); the site builds to `http://dib-lab.github.io/dammit`. 
+
+## References and Links
+
+The gh-actions file code above can be found [here](https://github.com/dib-lab/dammit/blob/master/.github/workflows/gh-pages.yml); the site builds to `http://dib-lab.github.io/dammit`.
+
+
+The `mkdocs.yml` file for the documentation website is [here](https://github.com/dib-lab/dammit/blob/master/mkdocs.yml), also reproduced below:
+
+```
+site_name: dammit
+site_url: http://dib-lab.github.io/dammit
+repo_name: dammit
+repo_url: https://github.com/dib-lab/dammit
+edit_uri: ""
+
+copyright: 'Copyright &copy; 2020 <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis'
+
+# change directory names here
+docs_dir: doc
+site_dir: site
+
+theme:
+  name: material
+
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'green'
+    accent: 'purple'
+  
+  # fun logos! see https://material.io/icons/
+  icon:
+    logo: material/dns
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# give a title for each page
+nav:
+  - 'Home': 'index.md'
+  - 'About': 'about.md'
+  - 'Installation':
+    - 'Requirements': 'system_requirements.md'
+    - 'Bioconda': 'install.md'
+  - 'Databases':
+    - 'Basic Usage': 'database-usage.md'
+    - 'About the Databases': 'database-about.md'
+    - 'Advanced Database Handling': 'database-advanced.md'
+  - 'Tutorial': 'tutorial.md'
+  - 'For developers':
+    - 'Notes for developers': 'dev_notes.md'
+```
 
