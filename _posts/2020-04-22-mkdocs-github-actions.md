@@ -51,5 +51,7 @@ jobs:
 
 Commit, push, and watch the magic happen. Commit a change to your documentation to double check that your site builds properly. 
 
-
 And... Done! Wow, I really thought there would be more to this - happy to report that something that went _faster_ than expected.
+
+For reference, the `mkdocs.yml` file for the documentation website that is being deployed via this action can be found [here](https://github.com/dib-lab/dammit/blob/master/mkdocs.yml); the site builds to `http://dib-lab.github.io/dammit`. 
+
