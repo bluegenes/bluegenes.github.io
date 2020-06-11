@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: "recursive" 
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0       # Fetch all history for .GitInfo and .Lastmod
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
@@ -38,9 +38,9 @@ jobs:
           architecture: 'x64'
       - name: Install dependencies
         run: |
-          python3 -m pip install --upgrade pip
-          python3 -m pip install mkdocs # -r ./requirements.txt
-          python3 -m pip install mkdocs-material #install material theme
+          python3 -m pip install --upgrade pip     # install pip
+          python3 -m pip install mkdocs            # install mkdocs 
+          python3 -m pip install mkdocs-material   #install material theme
       - name: Build site
         run: mkdocs build
       - name: Deploy
