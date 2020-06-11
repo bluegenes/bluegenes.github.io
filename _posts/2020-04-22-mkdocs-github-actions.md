@@ -18,12 +18,10 @@ First, add a workflow file: `.github/workflows/gh-pages.yml` that contains the b
 This particular file works with the [material theme](https://github.com/squidfunk/mkdocs-material):
 ```
 name: build and deploy mkdocs to github pages
-
 on:
   push:
     branches:
       - master
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -32,23 +30,11 @@ jobs:
         with:
           submodules: "recursive" 
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
           python-version: '3.7'
           architecture: 'x64'
-
-    # commenting for now: use this if we start running tests via gh-actions!
-    # for now, only mkdocs is required - no need to install/cache all requirements
-    #  - name: Cache dependencies
-    #    uses: actions/cache@v1
-    #    with:
-    #      path: ~/.cache/pip
-    #      key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-    #      restore-keys: |
-    #        ${{ runner.os }}-pip-
-
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
@@ -56,7 +42,6 @@ jobs:
           python3 -m pip install mkdocs-material #install material theme
       - name: Build site
         run: mkdocs build
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
