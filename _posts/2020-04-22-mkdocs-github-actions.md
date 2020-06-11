@@ -57,7 +57,7 @@ And... Done! Wow, I really thought there would be more to this - happy to report
 
 ## References and Links
 
-The gh-actions file code above can be found [here](https://github.com/dib-lab/dammit/blob/master/.github/workflows/gh-pages.yml); the site builds to `http://dib-lab.github.io/dammit`.
+The gh-actions file (containing the code above) can be found [here](https://github.com/dib-lab/dammit/blob/master/.github/workflows/gh-pages.yml); the site builds to `http://dib-lab.github.io/dammit`.
 
 
 The `mkdocs.yml` file for the documentation website is [here](https://github.com/dib-lab/dammit/blob/master/mkdocs.yml), also reproduced below:
