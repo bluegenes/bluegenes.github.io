@@ -1,9 +1,9 @@
 ---
-tags: snakemake, illo, dib-lab
+layout: post
+title: Tips and Tricks for running snakemake on our HPC (farm) 
+comments: true
+date: 2020-08-24
 ---
-
-Tips and Tricks for running snakemake on our hpc (farm)
-===
 
 These are notes for a virtual in-lab learning opportunity (vILLO) in the lab for data-intensive biology at UC Davis (08/24/2020). The main goal is to pass along tips and tricks for running snakemake on our `farm` cluster, including using `conda` for installation and submitting jobs via the `slurm` job scheduler. Many of these notes will translate to other clusters, but some may not, YMMV.
 
