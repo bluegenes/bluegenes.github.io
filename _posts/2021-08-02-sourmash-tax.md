@@ -9,6 +9,8 @@ tags: sourmash, taxonomy, classification
 
 With `sourmash` `v4.2`, we introduced a new module, `sourmash tax` (alias: `taxonomy`) for integrating taxonomic information into `sourmash gather` results. With this addition, the `sourmash tax` approach supercedes the `sourmash lca` approach as our recommended method for taxonomic integration.
 
+If you'd like to take it for a spin, check out the recipe [binder](https://github.com/sourmash-bio/sourmash-recipes)!
+
 
 ## `sourmash gather` finds the minimal set of reference genomes that match your query
 
@@ -62,7 +64,6 @@ There are two additional commands within the `sourmash tax` submodule, `prepare`
 `tax prepare` is a method for converting a `csv` of taxonomic lineage information into an `sqlite` database to enable faster loading and lineage assignment. It can also be used to combine lineage information for more that one database (e.g. GTDB, NCBI).
 
 `tax annotate` annotates `gather` results with taxonomic information, without doing any LCA summarization.
-
 
 ## What about the `sourmash lca` methods?
 
