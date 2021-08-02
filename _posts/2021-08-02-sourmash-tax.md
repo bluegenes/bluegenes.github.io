@@ -1,9 +1,4 @@
----
-tags: sourmash, sourmash tax, taxonomy, blog
----
-
-`sourmash tax` for taxonomic classification and metagenome breakdown
-===
+# `sourmash tax` for taxonomic classification and metagenome breakdown
 
 >Note: The `tax` module was developed with Titus Brown, Taylor Reiter, Luiz Irber, and Hannah Houts. The approaches described have emerged over years of `sourmash` development and exploration by these authors as well as Phil Brooks, Bry Moore, Mo Abuelanin, and a number of other key `sourmash` contributors. We're preparing preprints to properly describe this functionality, but for now please engage with us on  [gitter](https://gitter.im/sourmash-bio/community), [github](https://github.com/sourmash-bio/sourmash), [twitter](https://twitter.com/saltyscientist), etc!
 
