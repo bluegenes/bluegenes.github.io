@@ -8,15 +8,20 @@ image:
   feature: Tess_w_MSEAS.jpg 
 ---
 
-### Postdoc work
+### Current Research
 
-I am very fortunate to be funded by an [NSF Postdoctoral Research Fellowship in Biology](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711984&HistoricalAwards=false), and advised by [Titus Brown](https://biology.ucdavis.edu/people/c-titus-brown) at UC Davis.
+I'm currently a Postdoc in the Lab for Data-Intensive Biology at UC Davis, advised by [Titus Brown](https://biology.ucdavis.edu/people/c-titus-brown).
+My research is focused around developing methods to improve large-scale sequence comparisons. As part of this work, I help maintain and develop [sourmash](https://github.com/sourmash-bio/sourmash) and associated workflows.
 
-My project focuses on improving RNA-Seq through graph-based analysis and computational indexing. The overarching goal of this project is to improve RNA sequencing analysis by both improving tools for rapid and accurate analysis of newly sequenced data, and by developing methods for comparative analysis with existing reference data. Specifically, the focus is on 1) developing open-source best practices pipelines for improved assembly, annotation, and expression analysis of RNA-Seq data, 2) leveraging computational indexing methods to allow rapid comparative analysis of new data with large existing reference data, and 3) extending these indexing methods to include expression information and enable comparative expression analyses with reference data. Each of these advancements will be tested via computational experiments using data from the Marine Microbial Eukaryotic Transcriptome Sequencing Project (MMETSP). Alongside these scientific goals, we are committed to developing and conducting data science training and outreach to expose a wide array of students to bioinformatics research to build a larger base for the development of an equitable, diverse, and inclusive academe.
+For more on my recent work, see my [github](https://github.com/bluegenes) and recent [blog posts](http://bluegenes.github.io/posts/). I'm starting to put my talks up on the Open Science Framework, [here](https://osf.io/khqyw/).
+
+From 2017-2020 (with NCE to 2021), I was funded by an [NSF Postdoctoral Research Fellowship in Biology](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711984&HistoricalAwards=false), also advised by Titus Brown at UC Davis.
+
+### PhD Work
 
 #### Facilitating de novo transcriptomics
 
-Building off a project from my PhD work and a previously-existing workflow at the dib-lab, I constructed an automated de novo transcriptome assemblies, [eelpond](https://github.com/dib-lab/eelpond). Eelpond leverages the snakemake workflow management system to run popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Quick-Start [here](https://dib-lab.github.io/eelpond/).
+Building off a project from my PhD work and a previously-existing workflow at the dib-lab, I constructed an automated de novo transcriptome assemblies, [elvers](https://github.com/dib-lab/elvers). Elvers leverages the snakemake workflow management system to run popular quality control, assembly, annotation, and expression tools to produce high-quality *de novo* reference assemblies with minimal user input. The framework operates as a "black box" for those unfamilar with python and coding, but offers complete flexibility and customization for advanced users. Quick-Start [here](https://dib-lab.github.io/elvers/).
 
 
 ### PhD Work
