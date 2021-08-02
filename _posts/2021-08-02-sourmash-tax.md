@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `sourmash tax` for taxonomic classification and metagenome breakdown 
+title: sourmash tax for taxonomic classification and metagenome breakdown 
 modified: 2021-08-02
 tags: sourmash, taxonomy, classification
 ---
