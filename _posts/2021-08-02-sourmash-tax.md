@@ -50,6 +50,8 @@ For all methods, you'll need to have sketched your query or queries, and run `so
 
 Note we also offer `krona` output from `metagenome` or rank-classified `genome` results, as well as a `lineage_summary` output for `tax metagenome` that may be useful for external multi-sample visualization tools.
 
+<img src="images/krona-snapshot.svg" alt="krona-snapshot" style="width:200px;"/>
+
 There are two additional commands within the `sourmash tax` submodule, `prepare`, and `annotate`.
 
 `tax prepare` is a method for converting a `csv` of taxonomic lineage information into an `sqlite` database to enable faster loading and lineage assignment. It can also be used to combine lineage information for more that one database (e.g. GTDB, NCBI).
