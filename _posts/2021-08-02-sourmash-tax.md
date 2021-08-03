@@ -9,8 +9,6 @@ tags: sourmash, taxonomy, classification
 
 With `sourmash` `v4.2`, we introduced a new module, `sourmash tax` (alias: `taxonomy`) for integrating taxonomic information into `sourmash gather` results. With this addition, the `sourmash tax` approach supercedes the `sourmash lca` approach as our recommended method for taxonomic integration.
 
-If you'd like to take it for a spin, check out the recipe [binder](https://github.com/sourmash-bio/sourmash-recipes)!
-
 
 ## `sourmash gather` finds the minimal set of reference genomes that match your query
 
@@ -33,7 +31,7 @@ Single k-mers, either for true biological reasons or as a result of reference in
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Consider the case where you have 20 hits, 19 of which are to the Genus Prevotella, and 1 of which is to the Archaea Methanobrevibacter.<br><br>Most people would say &quot;Prevotella!&quot; but the lowest common ancestor would be &quot;cellular organisms&quot; - this is not useful</p>&mdash; Mick W@tson (@BioMickWatson) <a href="https://twitter.com/BioMickWatson/status/1421014637353578498?ref_src=twsrc%5Etfw">July 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In our experience, aggregating k-mer matches to the set of best genome matches with `gather` prior to LCA means contamination and other reference issues are far less likely to impact LCA annotations. As an added benefit, this approach allows us to do **taxonomic assignment with multiple taxonomies** (e.g. GTDB if available, NCBI for the remaining), so long as the `gather` was run against the appropriate databases.
+In our experience, aggregating k-mer matches to the set of best genome matches with `gather` prior to LCA means contamination and other reference issues are far less likely to impact LCA annotations. As an added benefit, this approach allows us to do taxonomic assignment with multiple taxonomies (e.g. GTDB if available, NCBI for the remaining), so long as the `gather` was run against the appropriate databases.
 
 ### How does it work?
 
@@ -78,5 +76,3 @@ While we recommend using the `gather`--> `tax` method, the `lca` module isn't go
 ## Additional Info
 
 Please see the [documentation](https://sourmash.readthedocs.io/en/latest/command-line.html#sourmash-tax-subcommands-for-integrating-taxonomic-information-into-gather-results) for additional details, and contact us on [gitter](https://gitter.im/sourmash-bio/community) with questions and comments, or file an [issue](https://github.com/sourmash-bio/sourmash/issues) on our github. We'd love to hear if and how these methods are useful to you!
-
-
