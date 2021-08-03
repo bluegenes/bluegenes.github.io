@@ -58,8 +58,8 @@ For all methods, you'll need to have sketched your query or queries, and run `so
 Note we also offer `krona` output from `metagenome` or rank-classified `genome` results, as well as a `lineage_summary` output for `tax metagenome` that may be useful for external multi-sample visualization tools.
 
 <figure>
-  <img src="{{ site.url }}/images/krona-snapshot.png" alt="krona" style="width:450px;">
-  <figcaption> krona output from a tiny example dataset. Real runs should have a much smaller % unclassified :)</figcaption>
+  <img src="{{ site.url }}/images/PSM7J4EF.gather-tax.full.krona.png" alt="krona" style="width:450px;">
+  <figcaption> example krona output </figcaption>
 </figure>
 
 There are two additional commands within the `sourmash tax` submodule, `prepare`, and `annotate`.
