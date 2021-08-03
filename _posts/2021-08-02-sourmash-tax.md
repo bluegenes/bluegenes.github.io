@@ -59,7 +59,7 @@ Note we also offer `krona` output from `metagenome` or rank-classified `genome` 
 
 <figure>
   <img src="{{ site.url }}/images/PSM7J4EF.gather-tax.full.krona.png" alt="krona" style="width:450px;">
-  <figcaption> example krona output </figcaption>
+  <figcaption> example krona output, generated using ktImportText </figcaption>
 </figure>
 
 There are two additional commands within the `sourmash tax` submodule, `prepare`, and `annotate`.
