@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-modified: 2015-02-05
+modified: 2023-09-27
 tags: [about]
 image: 
   feature: Tess_w_MSEAS.jpg 
@@ -10,8 +10,7 @@ image:
 
 ### Current Research
 
-I'm currently a Postdoc in the Lab for Data-Intensive Biology at UC Davis, advised by [Titus Brown](https://biology.ucdavis.edu/people/c-titus-brown).
-My research is focused around developing methods to improve large-scale sequence comparisons. As part of this work, I help maintain and develop [sourmash](https://github.com/sourmash-bio/sourmash) and associated workflows.
+I'm an Assistant Researcher associated with the [lab for data-intensive biology at UC Davis](http://ivory.idyll.org/lab/) run by [Titus Brown](https://biology.ucdavis.edu/people/c-titus-brown). My research is focused around developing methods to improve large-scale sequence comparisons. As part of this work, I help maintain and develop [sourmash](https://github.com/sourmash-bio/sourmash), [branchwater](https://www.biorxiv.org/content/10.1101/2022.11.02.514947v1.full), and associated workflows.
 
 For more on my recent work, see my [github](https://github.com/bluegenes) and recent [blog posts](http://bluegenes.github.io/posts/). I'm starting to put my talks up on the Open Science Framework, [here](https://osf.io/khqyw/).
 
