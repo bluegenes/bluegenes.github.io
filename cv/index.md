@@ -6,7 +6,7 @@ modified: 2023-04-06
 tags: [about]
 ---
 
-[CV]({{ site.url }}/images/2023-pierce-ward-cv.pdf)
+[CV]({{ site.url }}/images/sept2023-pierce-ward-cv.pdf)
 
 
 
